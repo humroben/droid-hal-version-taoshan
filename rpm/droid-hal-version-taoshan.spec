@@ -1,5 +1,5 @@
-%define device taoshan
-%define vendor sony
+%define rpm_device taoshan
+%define rpm_vendor sony
 
 %define vendor_pretty Sony
 %define device_pretty Xperia L
